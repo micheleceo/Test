@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Pippo Franco",
+    "tournamentGamesWon": 24,
+    "tournamentGamesLost": 9,
+    "tournamentMatchesWon": 3,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 1607.161051175458,
+    "tournamentScore": 24,
+    "ratingIncrement": 53.081414718208265,
+    "matchRatingIncrement": [
+      24.311901652734655,
+      28.76951306547361
+    ]
+  },
+  {
+    "name": "Felice Loffo",
+    "tournamentGamesWon": 24,
+    "tournamentGamesLost": 9,
+    "tournamentMatchesWon": 3,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 207.1610511754579,
+    "tournamentScore": 24,
+    "ratingIncrement": 53.081414718208265,
+    "matchRatingIncrement": [
+      24.311901652734655,
+      28.76951306547361
+    ]
+  },
+  {
+    "name": "Franca Mente",
+    "tournamentGamesWon": 8,
+    "tournamentGamesLost": 18,
+    "tournamentMatchesWon": 1,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 1268.8891126158749,
+    "tournamentScore": 8,
+    "ratingIncrement": -15.056332822541815,
+    "matchRatingIncrement": [
+      13.713180242931795,
+      -28.76951306547361
+    ]
+  },
+  {
+    "name": "Bianca Neri",
+    "tournamentGamesWon": 8,
+    "tournamentGamesLost": 18,
+    "tournamentMatchesWon": 1,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 1168.8891126158749,
+    "tournamentScore": 8,
+    "ratingIncrement": -15.056332822541815,
+    "matchRatingIncrement": [
+      13.713180242931795,
+      -28.76951306547361
+    ]
+  },
+  {
+    "name": "Gemma Preziosa",
+    "tournamentGamesWon": 14,
+    "tournamentGamesLost": 6,
+    "tournamentMatchesWon": 2,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 1387.1106237749707,
+    "tournamentScore": 14,
+    "ratingIncrement": -6.8642943293627425,
+    "matchRatingIncrement": [
+      -13.713180242931795,
+      6.8488859135690525
+    ]
+  },
+  {
+    "name": "Guglielmo Cancelli",
+    "tournamentGamesWon": 14,
+    "tournamentGamesLost": 6,
+    "tournamentMatchesWon": 2,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 987.1106237749708,
+    "tournamentScore": 14,
+    "ratingIncrement": -6.8642943293627425,
+    "matchRatingIncrement": [
+      -13.713180242931795,
+      6.8488859135690525
+    ]
+  },
+  {
+    "name": "Bruno Biondi",
+    "tournamentGamesWon": 7,
+    "tournamentGamesLost": 20,
+    "tournamentMatchesWon": 0,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 1436.8392124336963,
+    "tournamentScore": 7,
+    "ratingIncrement": -31.160787566303703,
+    "matchRatingIncrement": [
+      -24.31190165273465,
+      -6.848885913569053
+    ]
+  },
+  {
+    "name": "Guido Di Rado",
+    "tournamentGamesWon": 7,
+    "tournamentGamesLost": 20,
+    "tournamentMatchesWon": 0,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 436.8392124336963,
+    "tournamentScore": 7,
+    "ratingIncrement": -31.160787566303703,
+    "matchRatingIncrement": [
+      -24.31190165273465,
+      -6.848885913569053
+    ]
+  }
+]
