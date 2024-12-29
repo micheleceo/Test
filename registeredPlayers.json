@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Pippo Franco",
+    "rating": 1607.161051175458,
+    "totalGamesWon": 24,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 3,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  },
+  {
+    "name": "Felice Loffo",
+    "rating": 207.1610511754579,
+    "totalGamesWon": 24,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 3,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  },
+  {
+    "name": "Franca Mente",
+    "rating": 300.1610511754579,
+    "totalGamesWon": 24,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 3,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  },
+  {
+    "name": "Bianca Neri",
+    "rating": 800.1610511754579,
+    "totalGamesWon": 24,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 3,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  },
+  {
+    "name": "Gemma Preziosa",
+    "rating": 1800.1610511754579,
+    "totalGamesWon": 80,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 50,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  },
+  {
+    "name": "Guglielmo Cancelli",
+    "rating": 1500.1610511754579,
+    "totalGamesWon": 80,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 50,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  },
+  {
+    "name": "Bruno Biondi",
+    "rating": 1400.1610511754579,
+    "totalGamesWon": 80,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 50,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  },
+  {
+    "name": "Flip Trmon",
+    "rating": 1900.1610511754579,
+    "totalGamesWon": 70,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 50,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  },
+  {
+    "name": "Guido Di Rado",
+    "rating": 500.1610511754579,
+    "totalGamesWon": 80,
+    "totalGamesLost": 9,
+    "totalMatchesWon": 50,
+    "totalMatchesDrawn": 0,
+    "totalMatchesLost": 0,
+    "totalTournamentsWon": 0,
+    "totalTournamentsDrawn": 0,
+    "totalTournamentsLost": 0
+  }
+]
