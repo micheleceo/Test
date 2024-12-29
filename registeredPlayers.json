@@ -15,6 +15,21 @@
     ]
   },
   {
+    "name": "Rocco Cambula",
+    "tournamentGamesWon": 24,
+    "tournamentGamesLost": 9,
+    "tournamentMatchesWon": 3,
+    "tournamentMatchesDrawn": 0,
+    "tournamentMatchesLost": 0,
+    "rating": 1607.161051175458,
+    "tournamentScore": 24,
+    "ratingIncrement": 53.081414718208265,
+    "matchRatingIncrement": [
+      24.311901652734655,
+      28.76951306547361
+    ]
+  },
+  {
     "name": "Felice Loffo",
     "tournamentGamesWon": 24,
     "tournamentGamesLost": 9,
