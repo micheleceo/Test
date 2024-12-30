@@ -11,7 +11,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 1,
-      "PlayedTournamentID": [
+      "PlayedTournamentsID": [
         "2024-12-30T00:19:40.849Z"
       ]
     },
@@ -26,7 +26,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 1,
-      "PlayedTournamentID": [
+      "PlayedTournamentsID": [
         "2024-12-30T00:19:40.849Z"
       ]
     },
@@ -41,7 +41,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 1,
-      "PlayedTournamentID": [
+      "PlayedTournamentsID": [
         "2024-12-30T00:19:40.849Z"
       ]
     },
@@ -56,7 +56,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 1,
-      "PlayedTournamentID": [
+      "PlayedTournamentsID": [
         "2024-12-30T00:19:40.849Z"
       ]
     },
@@ -71,7 +71,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 1,
-      "PlayedTournamentID": [
+      "PlayedTournamentsID": [
         "2024-12-30T00:19:40.849Z"
       ]
     },
@@ -86,7 +86,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 1,
-      "PlayedTournamentID": [
+      "PlayedTournamentsID": [
         "2024-12-30T00:19:40.849Z"
       ]
     },
@@ -101,7 +101,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 1,
-      "PlayedTournamentID": [
+      "PlayedTournamentsID": [
         "2024-12-30T00:19:40.849Z"
       ]
     },
@@ -116,7 +116,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 1,
-      "PlayedTournamentID": [
+      "PlayedTournamentsID": [
         "2024-12-30T00:19:40.849Z"
       ]
     },
@@ -131,7 +131,7 @@
       "totalTournamentsWon": 0,
       "totalTournamentsDrawn": 0,
       "totalTournamentsLost": 0,
-      "PlayedTournamentID": []
+      "PlayedTournamentsID": []
     }
   ]
 }
