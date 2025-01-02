@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Textbox with Gist Content</title>
+</head>
+<body>
+    <input type="text" id="gistContent" value="Loading...">
+    <script>
+        // Replace 'your-gist-id' with the actual Gist ID
+        const gistId = 'f4ddc9c8d7c75e674a1af9488c24b998';
+        const gistUrl = `https://gist.githubusercontent.com/username/${gistId}/raw`;
+
+        fetch(gistUrl)
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('gistContent').value = data;
+            })
+            .catch(error => {
+                console.error('Error fetching the gist:', error);
+                document.getElementById('gistContent').value = 'Error loading content';
+            });
+    </script>
+</body>
+</html>
+
